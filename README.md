@@ -4,7 +4,7 @@ Code - VS code helper command for organizing and starting projects extremely fas
 
 ## Install
 
-⚠️ **Notice:** code only works on MacOS
+⚠️ **Notice:** only works on Unix-like os
 
 Clone this repo somewhere anywhere and then cd into the cloned repo
 Run `./setup.sh` preferably in sudo, it'll create a code command symlink inside your local bin
